@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "MLTable": "yaml",
+    "*.cpp": "cpp",
+    "ios": "cpp"
+  }
+}
